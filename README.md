@@ -20,6 +20,9 @@ In this project, I was tasked to analyze the Amazon reviews written by members o
 3.) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - 5 Star Vine Reviews Percentage: 36.22%
   - 5 Star Non-Vine Reviews Percentage: 47.01%
+  
+![Vine Reviews](https://user-images.githubusercontent.com/102476861/179001778-fa2a27e4-5165-4277-80c9-a9d30e1b9a57.png)
+
 
 
 
