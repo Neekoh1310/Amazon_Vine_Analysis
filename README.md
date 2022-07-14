@@ -12,6 +12,7 @@ In this project, I was tasked to analyze the Amazon reviews written by members o
 
 ### Results
 <p>
+  
 1.) How many Vine Reviews and Non-Vine Reviews were there?
   - Total Vine Reviews: 613
   - Total Non-Vine Reviews: 64,968
