@@ -11,15 +11,19 @@ In this project, I was tasked to analyze the Amazon reviews written by members o
 ![Screen1](https://user-images.githubusercontent.com/102476861/178607700-f1fdce80-27e3-4bd0-afb9-9c7fbddc4b30.png)
 
 ### Results
+<p>
 1.) How many Vine Reviews and Non-Vine Reviews were there?
   - Total Vine Reviews: 613
   - Total Non-Vine Reviews: 64,968
+  
 2.) How many Vine reviews were 5 stars? How many Non-Vine reviews were 5 stars?
   - 5 Star Vine Reviews: 222
   - 5 Star Non-Vine Reviews: 30543
+  
 3.) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - 5 Star Vine Reviews Percentage: 36.22%
-  - 5 Star Non-Vine Reviews Percentage: 47.01%
+  - 5 Star Non-Vine Reviews Percentage: 47.01% 
+</p>
   
 ![Vine Reviews](https://user-images.githubusercontent.com/102476861/179001778-fa2a27e4-5165-4277-80c9-a9d30e1b9a57.png)
 
